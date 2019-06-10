@@ -4,4 +4,4 @@
 
 Меня зовут Оля, и вы находитесь на сайте с моими проектами.
 
-[тык](https://wndrolga.github.io/projects/flower/)
+- [Вот один из них](https://wndrolga.github.io/projects/flower/)
